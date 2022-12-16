@@ -24,7 +24,7 @@ npm install
 Link to deployed app: <br>
 <a href= "https://quiet-hollows-03862.herokuapp.com/">Book Search App<a>
 
-<img src ="./client/src/assets/search.png"><img>
+<img src ="/client/src/assets/search.png"><img>
 
 ## License
 
