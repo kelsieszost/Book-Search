@@ -15,7 +15,7 @@ My application allows users to search for their favorite books from the Google B
 
 ## Installation
 
-To install this project:<br>
+To install this project:<br><br>
 npm install
 
 ## Usage
@@ -34,5 +34,5 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 
 ## Contact
 
-<a href = "https://github.com/kelsieszost">GITHUB<a>
+<a href = "https://github.com/kelsieszost">GITHUB<a><br>
 <a href = "mailto:owner@kelsieszost.design">EMAIL<a>
